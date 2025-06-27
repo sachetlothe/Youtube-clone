@@ -6,15 +6,15 @@ This is a YouTube homepage clone built using **HTML** and **CSS**, replicating t
 
 ## 📁 Project Structure
 
-youtube-clone/
-├── .vscode/ # VSCode settings (optional)
-├── channel profile/ # Channel profile images
-├── icons/ # Icon images (if used)
-├── styles/ # CSS files
-├── thumbnails/ # Video thumbnail images
-└── youtube.html # Main HTML file
+```
+├── .vscode/            # VSCode settings (optional)
+├── channel profile/    # Channel profile images
+├── icons/              # Icon images (if used)
+├── styles/             # CSS files
+├── thumbnails/         # Video thumbnail images
+└── youtube.html        # Main HTML file
+```
 
----
 
 ## 🌟 Features
 
