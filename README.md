@@ -7,9 +7,9 @@ This is a YouTube homepage clone built using **HTML** and **CSS**, replicating t
 ## 📁 Project Structure
 
 ```
-├── .vscode/            # VSCode settings (optional)
+├── .vscode/            # VSCode settings 
 ├── channel profile/    # Channel profile images
-├── icons/              # Icon images (if used)
+├── icons/              # Icon images 
 ├── styles/             # CSS files
 ├── thumbnails/         # Video thumbnail images
 └── youtube.html        # Main HTML file
