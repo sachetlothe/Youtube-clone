@@ -1,29 +1,59 @@
-# YouTube Clone 🚀
+# YouTube Clone 🎬
 
-This project is a **responsive YouTube web clone** built using **HTML**, **CSS**, and basic **JavaScript**. It replicates the layout and design of YouTube's homepage, including video cards, sidebar navigation, and a search bar.
+This is a YouTube homepage clone built using **HTML** and **CSS**, replicating the core layout and design of YouTube's front page.
 
 ---
 
-## 📸 Features
+## 📁 Project Structure
 
-✅ YouTube-style video grid layout  
-✅ Video preview cards with thumbnails, titles, channel information, and video duration  
-✅ Sidebar with navigation options similar to YouTube  
-✅ Responsive design layout  
-✅ Search bar with focus styling  
-✅ Video thumbnails and titles are clickable (link structure ready)  
+youtube-clone/
+├── .vscode/ # VSCode settings (optional)
+├── channel profile/ # Channel profile images
+├── icons/ # Icon images (if used)
+├── styles/ # CSS files
+├── thumbnails/ # Video thumbnail images
+└── youtube.html # Main HTML file
+
+---
+
+## 🌟 Features
+
+- Video grid layout similar to YouTube  
+- Thumbnails, video duration, titles, and channel info  
+- Sidebar navigation  
+- Search bar with focus styling  
+- Clickable video cards with link structure ready  
+- Responsive layout foundation  
 
 ---
 
 ## 🛠️ Technologies Used
 
-- HTML5  
-- CSS3  
-- (Optional) Basic JavaScript for interactivity  
-- Font Awesome or similar icons (optional)  
-- Image placeholders for thumbnails and profile pictures  
+- **HTML5**  
+- **CSS3**  
 
 ---
 
-## 📂 Folder Structure
+## 🚀 How to Run the Project
+
+1. Clone the repository or download the project folder.  
+2. Open `youtube.html` in your browser to view the project.  
+
+---
+
+## 🎯 Future Improvements
+
+- Add responsive behavior with CSS media queries  
+- Enhance hover effects and animations  
+- Implement basic interactivity with JavaScript  
+- Improve accessibility (focus indicators, alt tags)  
+- Add real video links  
+
+---
+
+## ⚠️ Note
+
+This project is for **educational purposes only** and is not intended for commercial use.
+
+---
 
